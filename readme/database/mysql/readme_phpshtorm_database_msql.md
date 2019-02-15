@@ -1,0 +1,11 @@
+# PhpStorm Database MySQL
+![](img/open.png)
+![](img/open2.png)
+![](img/Add_MySql_driver.png)
+![](img/propertiGeneral.png)
+![](img/propertisChemas.png)
+![](img/openDsataBase.png)
+![](img/openDsataBase2.png)
+![](img/openDsataBase3.png)
+![](img/openDsataBase4.png)
+![](img/table.png)
